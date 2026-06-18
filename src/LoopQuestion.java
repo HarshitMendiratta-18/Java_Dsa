@@ -31,13 +31,9 @@ public class LoopQuestion {
 //        }while(score>3);
 
         //q6:
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the number:");
-        int number=sc.nextInt();
-        int count=0;
-        for(int i=1;i<=number;i++){
-            System.out.println();
-        }
+       for(int i=4;i<=22;i++){
+           System.out.println(i*2);
+       }
 
     }
 }

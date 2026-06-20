@@ -35,5 +35,10 @@ public class LoopQuestion {
            System.out.println(i*2);
        }
 
+       //q7:
+        for(int i=3;i<=5;i++){
+            System.out.println(i);
+        }
+
     }
 }

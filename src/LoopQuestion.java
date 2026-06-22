@@ -39,6 +39,10 @@ public class LoopQuestion {
         for(int i=3;i<=5;i++){
             System.out.println(i);
         }
+        //q8:
+        for(int i=1;i<=7;i++){
+            System.out.println(i/4);
+        }
 
     }
 }

@@ -44,5 +44,15 @@ public class LoopQuestion {
             System.out.println(i/4);
         }
 
+        //q9:
+         int n=5;
+        for(int i=1;i<=n;i++){
+            String str="";
+            for(int j=1;j<=i;j++){
+                str=str+"*";
+            }
+            System.out.println(str);
+        }
+
     }
 }

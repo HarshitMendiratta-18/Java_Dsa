@@ -54,5 +54,10 @@ public class LoopQuestion {
             System.out.println(str);
         }
 
+        int h=8;
+        for(int i=1;i<=h;i++){
+            System.out.println(i/5);
+        }
+
     }
 }
